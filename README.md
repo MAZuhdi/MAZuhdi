@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'am Agung
+
+- 🔭 I’m currently working on MAZuhdi/halamanpersonal-backend
+- 🌱 I’m currently learning PHP Web Development
+- 💬 Ask me about History, Historical Movie, Strategy Games such as AoE and Total War, Nasheed
+- 📫 How to reach me: DM me on Instagram
 
 ## 🔧 Technologies & Tools
 
